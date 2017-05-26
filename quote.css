@@ -1,0 +1,59 @@
+#main{
+  position:relative;
+  height:600px;
+  width:2000px;
+}
+#text{
+  position:absolute;
+  background-color:white;
+  border-radius: 25px;
+  height:200px;
+  width:480px;
+  margin:80px 180px 80px 380px;
+  padding:50px;
+}
+.saying{
+  text-align:center;
+  font-family: 'Knewave';font-size: 30px;
+  
+}
+div#author{
+  margin:30px;
+}
+.person{
+  font-family:sans-serif;
+  text-align:right;
+}
+#clickButton{
+  position:absolute;
+  height:50px;
+  width:230px;
+  margin:400px 180px 80px 550px;
+  padding:30px;
+}
+#quoteButton{
+  border-radius: 15px 50px; 
+  padding:15px;
+  border-style:outset;
+  font-family: 'Annie Use Your Telescope';
+  font-size: 22px;
+}
+#tweeter{
+  position:absolute;
+  margin:280px 380px 60px 400px; 
+  height:30px;
+  width:30px;
+  padding:10px;
+  color:#1E90FF;
+}
+a{
+  outline:0;
+}
+#footer{
+  position:absolute;
+  height:30px;
+  width:200px;
+  margin:580px 180px 8px 580px;
+  font-size:small;
+  color:white;
+} 
