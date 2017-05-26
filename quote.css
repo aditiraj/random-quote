@@ -1,10 +1,8 @@
-body{
-margin-left: 20%;
-margin-right: 20%;
-}
+
 div#main{
   position:relative;
   height:600px;
+  width:auto;
 }
 #text{
   position:absolute;
