@@ -1,5 +1,6 @@
 #main{
   position:relative;
+  height:600px;
   margin:auto;
 }
 #text{
@@ -50,7 +51,7 @@ a{
 }
 #footer{
   position:absolute;
-  height:30px;
+  height:10px;
   width:200px;
   margin:580px 180px 8px 580px;
   font-size:small;
