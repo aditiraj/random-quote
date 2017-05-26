@@ -1,7 +1,7 @@
 #main{
   position:relative;
   height:600px;
-  width:2000px;
+  width:auto;
 }
 #text{
   position:absolute;
