@@ -1,6 +1,9 @@
 #main{
   position:relative;
-  width:600px;
+  top:20px;
+  height:700px;
+  width:700px;
+  margin:auto;
 }
 #text{
   position:absolute;
