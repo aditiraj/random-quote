@@ -1,8 +1,6 @@
 #main{
   position:relative;
-  height:900px;
-  width:500px;
-  margin:10px;
+  margin:auto;
 }
 #text{
   position:absolute;
