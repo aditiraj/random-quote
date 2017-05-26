@@ -1,4 +1,11 @@
 
+#main{
+  position:relative;
+  height:600px;
+  width:600px;
+  margin-left:20%;
+  margin-right:20%;
+}
 #text{
   position:absolute;
   background-color:white;
