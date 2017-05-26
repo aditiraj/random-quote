@@ -1,8 +1,7 @@
-
-div#main{
+#main{
   position:relative;
   height:600px;
-  width:auto;
+  width:2000px;
 }
 #text{
   position:absolute;
@@ -52,7 +51,7 @@ a{
 }
 #footer{
   position:absolute;
-  height:10px;
+  height:30px;
   width:200px;
   margin:580px 180px 8px 580px;
   font-size:small;
