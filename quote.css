@@ -1,6 +1,6 @@
 div#main{
-  
-  width:500px;
+  position:absolute;
+  width:600px;
   margin:auto;
 }
 #text{
